@@ -10,6 +10,9 @@
 !/android
 /android/*
 !/android/dependencies.gradle
+!/android/common
+/android/common/*
+!/android/common/src
 !/android/CDVBackgroundGeolocation
 /android/CDVBackgroundGeolocation/*
 !/android/CDVBackgroundGeolocation/src
